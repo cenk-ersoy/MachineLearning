@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning Scripts 
+Jupyter Notebooks related to Machine Learning  
